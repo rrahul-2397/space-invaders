@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "space-invaders-final-folder",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "space-invaders-final-folder"
+	}
+}

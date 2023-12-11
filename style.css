@@ -1,0 +1,19 @@
+h1 {
+    margin: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 2.9em;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    background: url(./3d-render-retro-wireframe-poster-with-geometric-object.jpg);
+    
+  }
